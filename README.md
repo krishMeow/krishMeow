@@ -13,7 +13,7 @@
 
 <br/>
 
-<img width="100%" src="./portrait.svg" alt="KrishMeow animated terminal profile hero" />
+<!-- <img width="100%" src="./portrait.svg" alt="KrishMeow animated terminal profile hero" /> -->
 
 <br/><br/>
 
