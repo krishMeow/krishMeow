@@ -17,7 +17,7 @@
 
 <br/><br/>
 
-<img src="https://img.shields.io/badge/Full%20Stack%20Developer-CAFF3C?style=flat-square&labelColor=060D08&color=1A2B1A&logo=code&logoColor=CAFF3C" alt="Full Stack Developer" />
+<img src="https://img.shields.io/badge/Mern%20Stack%20Developer-CAFF3C?style=flat-square&labelColor=060D08&color=1A2B1A&logo=code&logoColor=CAFF3C" alt="Full Stack Developer" />
 <img src="https://img.shields.io/badge/React%20%7C%20Node.js%20%7C%20React%20Native-CAFF3C?style=flat-square&labelColor=060D08&color=1A2B1A" alt="Tech Stack" />
 <img src="https://img.shields.io/badge/%F0%9F%93%8D_Chennai%2C%20India-1A2B1A?style=flat-square&labelColor=060D08&logoColor=CAFF3C" alt="location" />
 <img src="https://img.shields.io/badge/%40krishme0w-Instagram-CAFF3C?style=flat-square&logo=instagram&logoColor=000000&labelColor=060D08" alt="instagram" />
@@ -163,7 +163,7 @@ Cloud-based ATS designed to streamline recruitment from candidate resume upload 
 | **Backend**      | REST APIs for candidates, interviews, assessments and recruiter workflows                  |
 | **AI**           | Resume parsing, candidate scoring and technology matching                                  |
 | **Features**     | Resume upload · Candidate scoring · Shortlisting · Interview scheduling · Notifications    |
-| **Contribution** | Full-stack development + AI integration                                                    |
+| **Contribution** | Mern-stack development + AI integration                                                    |
 
 </details>
 
@@ -269,7 +269,7 @@ MUI                    → Enterprise UI systems
 Python + AI           → ATS / resume intelligence integration
 ```
 
-* Developed scalable full-stack applications using the MERN stack.
+* Developed scalable Mern-stack applications using the MERN stack.
 * Built reusable React, MUI and Redux components.
 * Designed RESTful APIs using Node.js and Express.js.
 * Worked on CRM modules including customer management, enquiries, dashboards and reports.
@@ -520,7 +520,7 @@ open_to:
 
 <div align="center">
 
-<sub><i>// by day: full stack engineer  |  by night: building AI-powered products & developer tools</i></sub>
+<sub><i>// by day: Mern stack engineer  |  by night: building AI-powered products & developer tools</i></sub>
 
 <br/><br/>
 
