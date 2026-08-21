@@ -1,4 +1,4 @@
-# Krish-Dev
+# KrishMeow
 
 <p align="center">
   <img src="./portrait.svg"
